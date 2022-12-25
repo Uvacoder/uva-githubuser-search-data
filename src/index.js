@@ -9,8 +9,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Auth0Provider
-      domain='dev-pu8wyk-g.us.auth0.com'
-      clientId='GYsVn60CkUU6fa4yiwpRrT1KVL5KuzPh'
+      domain='dev-xxuvvfjmgth4rs77.us.auth0.com'
+      clientId='PEK0IvTB1O7offgcS4SnI87tpTKJCznL'
       redirectUri={window.location.origin}
       cacheLocation='localstorage'
     >
